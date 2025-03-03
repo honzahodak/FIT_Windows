@@ -1,0 +1,8 @@
+Datum 25.4.2024
+Čas: 6:27
+Způsob odevzdání: Nahrání na sesrer ivs.fit.vutbr.cz
+
+V archivu jsou kromě požadovaných souborů také: 
+cargo.toml, cargo.lock  soubory potřebné pro běh Rustu
+LICENCE kde je zapsaná licence
+a debian package pro instalaci

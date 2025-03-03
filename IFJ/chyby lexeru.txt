@@ -1,0 +1,6 @@
+const a : [  a ]u8 --jakýkoliv znak mezi [] 
+const a : []u 8    --rozdělené u8
+const a : []ud8    --něco v tom
+const a : f64 = 1.2a3;  --když za tím číslem není mezera a rovnou tam něco pokračuje např (a3) místo e3 
+const a : f64 = 1.23e4e5;  --dva exponenty
+const a : f64 = .52;   --číslo začíná .

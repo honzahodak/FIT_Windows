@@ -1,0 +1,3 @@
+Dodržování stanovených termínů, aktivita - Oproti stanovených termínům jsme byli velmi pozadu. Vždy se členům týmu naskytnuly jiné věci, které byly potřeba dořešit dříve. --- Lepší plánování vlastního času, začít celkově dříve 
+Programovací jazykZvolili jsme si Rust protože nás zajímalo jak se pomocí něj programuje --- Pro takové projekty je p¨lepší pracovat s něčím co už známe, ale nějak jsme to nakonec vymysleli
+Komunikace - chvílemi váznula --- Nikdo neůže být přístupný každý den celý den, takže někdy trvalo než ostatní zareagovali na zprávy
